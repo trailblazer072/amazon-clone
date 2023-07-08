@@ -17,7 +17,7 @@
     width: 113px;
 }
 .logo{
-    background-image: url(amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100%; 
@@ -170,7 +170,7 @@
 }
 /* hero section */
 .hero-section{
-    background-image: url("DesktopHero_Consoles-games--accessories-Jun23-W4_with-Bank_2x._CB602440535_.jpg");
+    background-image: url("images/DesktopHero_Consoles-games--accessories-Jun23-W4_with-Bank_2x._CB602440535_.jpg");
     height: 325px;
     /* width: 1525px; */
     background-size: cover;
@@ -195,7 +195,7 @@
 /*shop section*/
 .shop-section{
     display: flex;
-    background-image: url(Untitled\ design.png);
+    background-image: url(images/Untitled\ design.png);
     background-size: cover;
     justify-content: space-evenly ;
 }
@@ -276,7 +276,7 @@
     align-items: center;
 }
 .prime-gaming{
-    background-image: url(prime\ gaming.jpg);
+    background-image: url(images/prime\ gaming.jpg);
     height: 150px;
     width: 300px;
     margin-top: 10px;
