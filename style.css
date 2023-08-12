@@ -163,6 +163,8 @@
 .panel-all{
     color: white;
     font-weight: 300;
+    display: flex;
+    gap: 10px;
 }
 .panel-ops p{
     color: white;
