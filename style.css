@@ -6,6 +6,7 @@
 .navbar {
     /* opacity: 0%; */
     height: 60px;
+    width: 100%;
     background-color: #0f1111;
     color: white;
     display: flex;
@@ -54,7 +55,7 @@
 /* box3 */
 .nav-search{
     display: flex;
-    width: 885px;
+    width: 800px;
     height: 40px;
     background-color: pink;
     border-radius: 4px;
@@ -129,16 +130,17 @@
     border: none;
 }
 .nav-greeting{
-    font-size: 13px;
+    font-size: .8rem;
     font-weight: 400;
 }
 .nav-account{
+    
     display: flex;
     align-items: center;
 }
 .nav-second{
     font-weight: 700;
-    font-size: 14px;
+    font-size: .9rem;
     padding-right: 5px;
 }
 /* box6 */
